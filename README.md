@@ -6,6 +6,8 @@ This repository contains a set of bash scripts to automate the installation and 
 LAMP stands for **Linux, Apache, MariaDB (MySQL), and PHP** — a popular stack for hosting dynamic websites and applications.
 
 ---
+![image](https://github.com/user-attachments/assets/055e07bc-38b1-4bbe-81c6-463f5035c753)
+
 
 ## Features
 
@@ -39,6 +41,7 @@ LAMP stands for **Linux, Apache, MariaDB (MySQL), and PHP** — a popular stack 
 - Sudo privileges on the instance
 
 ---
+![image](https://github.com/user-attachments/assets/83a72969-3a75-41d0-a329-7f80897a66c3)
 
 ## How to Use
 
